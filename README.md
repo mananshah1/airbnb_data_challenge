@@ -2,7 +2,7 @@
 
 This data is from the Airbnb User Pathways Challenge.
 
-With the data we have here, we first see how the normalized metrics - searches per visitor, messages per visitor, booking requests per visitor are influenced by factors like device type, day of week, time of day. 
+With the data we have here, we first see how the normalized metrics - searches per visitor, messages per visitor, booking requests per visitor are influenced by factors like device type, day of week, time of day and session time. We engineer these features from the data that is given to us.
 
 Morning hours have more booking requests per visitor and evening hours have more searched and messages per visitor. Weekdays are associated with more activity from the users. Mobile devices see a lot more activity than Desktop devices, especially with searhces and messages.
 
